@@ -1,0 +1,1 @@
+The MNIST project, is like a Hello World program, the basic of ML. Here we have images as data which is handwritten digits. The goal of this project is to build a ML algorithm to classify those digits.
